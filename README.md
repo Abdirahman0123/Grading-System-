@@ -16,11 +16,11 @@ Three methods of adding students to groups:
 Buttons:
 * Import - imports class list from text file. Check Sample class list below
 * Exit- exists the application
-Group2 - Open a new Window for adding students manually
-Display Group... - Displays students in the group
-Display Mark for Group... -- calculates students marks
-Save Group... -- saves students in groups and their marks through serialization
-Retrieve Group... -- retrieves students in groups and their marks through deserialization
-Add Studnet-- lets add students manually
+* Group2 - Open a new Window for adding students manually
+* Display Group... - Displays students in the group
+* Display Mark for Group... -- calculates students marks
+* Save Group... -- saves students in groups and their marks through serialization
+* Retrieve Group... -- retrieves students in groups and their marks through deserialization
+* Add Studnet-- lets add students manually
 
 
