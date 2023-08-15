@@ -14,8 +14,8 @@ Three methods of adding students to groups:
 * Manually adding ("Group2" button)
 
 Buttons:
-Import - imports class list from text file. Check Sample class list below
-Exit- exists the application
+* Import - imports class list from text file. Check Sample class list below
+* Exit- exists the application
 Group2 - Open a new Window for adding students manually
 Display Group... - Displays students in the group
 Display Mark for Group... -- calculates students marks
